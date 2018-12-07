@@ -1,0 +1,15 @@
+.. role:: raw-html-m2r(raw)
+   :format: html
+
+WeIdentity JAVA SDK文档
+=======================
+
+.. include:: weidentity-java-sdk-doc.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   首页 <https://weidjavasdk.readthedocs.io/zh_CN/latest/>
+   ./weidentity-java-sdk-doc.rst
+
