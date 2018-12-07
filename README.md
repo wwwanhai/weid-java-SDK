@@ -1,11 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0138b676941a415db6e31928de4af0c0)](https://app.codacy.com/app/chaoxinhu/weidentity-java-sdk?utm_source=github.com&utm_medium=referral&utm_content=webankopen/weidentity-java-sdk&utm_campaign=Badge_Grade_Dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/chaoxinhu/weidentity-java-sdk/badge)](https://www.codefactor.io/repository/github/chaoxinhu/weidentity-java-sdk)
-[![LGPL](https://img.shields.io/badge/license-GNU%20LGPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-[![Build Status](https://travis-ci.org/webankopen/weidentity-java-sdk.svg?branch=master)](https://travis-ci.org/webankopen/weidentity-java-sdk)
-[![codecov](https://codecov.io/gh/webankopen/weidentity-java-sdk/branch/master/graph/badge.svg)](https://codecov.io/gh/webankopen/weidentity-java-sdk)
-[![Maven Central](https://img.shields.io/maven-central/v/com.webank/weidentity-java-sdk.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.webank%22%20AND%20a:%22weidentity-java-sdk%22)
-[![Latest release](https://img.shields.io/github/release/webankopen/weidentity-java-sdk.svg)](https://github.com/webankopen/weidentity-java-sdk/releases/latest)
-
 # WeIdentity JAVA SDK
 
 ---

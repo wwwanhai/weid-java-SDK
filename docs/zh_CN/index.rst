@@ -7,5 +7,5 @@
    :maxdepth: 2
    :caption: Contents:
 
-   首页 <https://weid.readthedocs.io/zh_CN/latest/>
+   首页 <https://weidentity.readthedocs.io/zh_CN/latest/>
    ./weidentity-java-sdk-doc.rst

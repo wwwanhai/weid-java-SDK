@@ -7,6 +7,6 @@
    :maxdepth: 2
    :caption: Contents:
 
-   homePage <https://weid.readthedocs.io/en/latest/>
+   homePage <https://weidentity.readthedocs.io/en/latest/>
    ./weidentity-java-sdk-doc.rst
 
