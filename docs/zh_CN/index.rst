@@ -1,11 +1,14 @@
 .. role:: raw-html-m2r(raw)
    :format: html
    
-.. include:: weidentity-java-sdk-doc.rst
+.. include:: docs/weidentity-java-sdk-doc.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    首页 <https://weidentity.readthedocs.io/zh_CN/latest/>
-   ./weidentity-java-sdk-doc.rst
+   docs/weidentity-java-sdk-doc.rst
+   docs/weidentity-installation.rst
+   docs/weidentity-contract-design.rst
+   docs/faq.rst
