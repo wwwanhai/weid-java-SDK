@@ -5,13 +5,14 @@ Java SDK FAQ
 
 -  **智能合约升级和 SDK 升级相关问题**
 
-详见\ `版本号管理 <../styleguides/versioning-management.html>`__\ 。
+详见\ `版本号管理 <./versioning-management.html>`__\ 。
 
 --------------
 
 -  **Smart Contract（智能合约）的如何升级？**
 
 | WeIdentity
+
 智能合约是按分层设计的，分为：\ *数据层，逻辑层，权限层*\ 。数据层合约被当做类似数据库的表来使用，充分预留的字段，所以数据层合约基本稳定。在大多数情况下，WeIdentity
 智能合约的升级的时候只会升级逻辑层和权限层，所以升级的时候之前的数据完全保留，部署新的合约（需要传入升级前数据合约的合约地址）后，直接使用新的合约即可。如果需要升级数据层合约，则需要做数据迁移或者在逻辑层做特殊逻辑。
 | 更多信息请看\ `WeIdentity智能合约设计 <weidentity-contract-design.html>`__\ 。
@@ -80,4 +81,3 @@ Control）。此外，在一个不需要token的区块链世界里，tx.origin�
 详见\ `如何运行单元测试 <../how-to-run-unit-test.html>`__\ 。
 
 --------------
-

@@ -5,7 +5,7 @@ Java SDK FAQ
 
 -  **智能合约升级和 SDK 升级相关问题**
 
-详见\ `版本号管理 <../styleguides/versioning-management.html>`__\ 。
+详见\ `版本号管理 <./versioning-management.html>`__\ 。
 
 --------------
 
