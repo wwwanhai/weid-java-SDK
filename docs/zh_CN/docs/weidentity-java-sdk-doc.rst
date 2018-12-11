@@ -14,7 +14,7 @@ WeIdentity Java SDK提供了一整套对WeIdentity进行管理操作的Java库�
 术语
 ----
 
-* 请参阅：`术语表 <https://weidentity.readthedocs.io/zh_CN/stable/docs/terminologies.html>`_
+* 请参阅：`术语表 <https://weidentity.readthedocs.io/zh_CN/latest/docs/terminologies.html>`_
 
 部署SDK
 -------

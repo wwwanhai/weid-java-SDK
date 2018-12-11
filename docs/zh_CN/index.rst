@@ -1,7 +1,7 @@
 .. role:: raw-html-m2r(raw)
    :format: html
    
-.. include:: docs/weidentity-java-sdk-doc.rst
+.. include:: docs/README.rst
 
 .. toctree::
    :maxdepth: 1
